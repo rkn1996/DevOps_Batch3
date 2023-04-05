@@ -1,1 +1,3 @@
-added new feature 3 by developer-1
+added new feature 3 by developer-1 ( corrected his mistake )
+
+dev2 added some changes to feature-3
