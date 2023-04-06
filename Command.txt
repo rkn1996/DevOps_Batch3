@@ -1,0 +1,23 @@
+ls -
+ls -la -
+git config --list -
+git config --global user.name "name"
+git config --global user.email "email_address"
+git add -
+git commit -m "message" -
+git status -
+git log -
+git log --oneline -
+git log --pretty=oneline -
+git checkout -b branch_name -
+git branch branch_name -
+git checkout branch_name -
+git revert commit_Id -
+git reset commit_Id -
+git merge branch_Name -
+git rebase branch_Name -
+git remote -v -
+git remote add origin url -
+git pull origin branch_name
+git push origin branch_name
+
